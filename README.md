@@ -1,4 +1,8 @@
 # practice_3_sem
 
-1. [list](https://github.com/tantarin/practice_3_sem/blob/gh-pages/test.md)
-2. List
+1. [Задание 1.1]()
+2. [Задание 1.2]()
+3. [Задание 1.3]()
+4. [Задание 2.1]()
+5. [Задание 2.2]()
+6. [Задание 2.3]()
